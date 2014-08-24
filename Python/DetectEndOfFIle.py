@@ -11,7 +11,7 @@ try:
         else:
             pickle.dump(num,infile)
 except:
-    print("Some shit went down!")
+    print("Something went down!")
 
 
 infile.close()
